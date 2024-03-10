@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Alexis!</h1>
 <div align="center">
-  <a href="https://www.linkedin.com/in/alexis-lemaire-089b1b109" target="_blank" rel="noopener">LinkedIn</a> • <a href="https://portfolio.alexis-lemaire.net" target="_blank" rel="noopener">Portfolio</a> • <a href="https://drive.google.com/file/d/1QbBljYzuB8ZiMicjKK7GEyUE-ffRlat5/view" target="_blank" rel="noopener">Resume</a>
+  <a href="https://www.linkedin.com/in/alexis-lemaire-089b1b109" target="_blank" rel="noopener">LinkedIn</a> • <a href="https://portfolio.alexis-lemaire.net" target="_blank" rel="noopener">Portfolio</a> • <a href="https://resume.alexis-lemaire.net" target="_blank" rel="noopener">Resume</a>
 </div>
 <br />
 
