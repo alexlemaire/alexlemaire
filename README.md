@@ -42,6 +42,7 @@
 **Infra**
 
 ![aws](https://github.com/alexlemaire/alexlemaire/assets/50198634/c7d86764-b9fd-46dc-a6e6-b6beeb1a84a6)
+![gcp](https://github.com/alexlemaire/alexlemaire/assets/50198634/940ff94f-aca6-44d6-b734-774591bc206f)
 ![docker](https://github.com/alexlemaire/alexlemaire/assets/50198634/c14228a2-6aef-45e9-879d-10f3b3c816ba)
 ![kubernetes](https://github.com/alexlemaire/alexlemaire/assets/50198634/0487f316-3790-4a9e-b7a0-dbab3517a812)
 ![kafka](https://github.com/alexlemaire/alexlemaire/assets/50198634/bcb29639-dd2f-4b4f-a8b9-eefd6f86f286)
